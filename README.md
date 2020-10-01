@@ -24,7 +24,7 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 
 [1]: https://www.dst.dk/
 
-#### Experiment 1
+#### Experiment 1 - Increase of water consumptpion on the weekend
 
 #### Experiment 2
 
