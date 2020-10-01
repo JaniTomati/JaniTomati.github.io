@@ -28,7 +28,7 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 
 The first experiment was meant to try to find out whether there would be a significant difference between the water consumption on the weekends compared to regular weekdays. The thought was that people generally are at home during the weekend which could lead to a higher consumption of water. 
 
-The given data contains logs of certain attributes over two quarters (6 months). That data is logged for every minute, each day. This is too much data too visualize in an understanding way, so the first thing we did was to compute the main value for every attribute each day. This leaves us with only one value per day instead of several thousand. 
+The given data contains logs of certain attributes over two quarters (6 months). That data is logged for every minute, each day. This is too much data too visualize in an understanding way, so the first thing we did was to compute the mean value for every attribute each day. This leaves us with only one value per day instead of several thousand. 
 
 <img src="images/experiment1/annotations_z80.png">
 
