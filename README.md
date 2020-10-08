@@ -95,22 +95,30 @@ This experiment tries to give insights for water flow increase during lockdown p
 - __h16__: Customers need our expertise to bring the data into readable and interpretable format *(Problem solving)*
 
 #### KEY PARTNERSHIPS
-- __h17__: To reduce the business process costs we need to collaborate with cloud providers to reduce the price of computing and storage resources *(Strategic alliences)*
+- __h17__: We need to collaborate with cloud providers to reduce the price of computing and storage resources *(Strategic alliences)*
 
 #### COST STRUCTURE
 - __h18__: We want to create the best product that brings the most value for the customers business process *(Value driven)*
 
-### Experiments 
+### Experiments
 
-| Hypotheses        | Experiment          | Difficulty  |  Result  |
+| Hypotheses        | Experiment          | Difficulty   |  Result  |
 | ----------------- |:--------------------|:-----------:| -------- |
-| h1, h2            | this is an experiment     |   eaaaasy          |  example |
-|                   |                     |             |          |
-|                   |                     |             |          |
-|                   |                     |             |          |
-|                   |                     |             |          |
-|                   |                     |             |          |
-|                   |                     |             |          |
+| h1 | Identify potential clients and interview them to figure out if this product would create value for them | Normal |  |
+| h2 | A prototype of data visualisation is created and presented for customer to gain feedback if this visualisation would solve some of the existing customer’s problems | Easy | |
+| h3 | Share success stories with customers where we would highlight how our product helped in identifying potential pitfalls for other customers | Easy | |
+| h4, h5 | Aquire different metrics and compare it to the ones before customer started using this product, highlight the positive findings | Hard | |
+| h6 | Create a web version of the product for desktop/mobile and gather feedback from target groups | Hard | |
+| h9 | Send a draft version of data report for customers and collect feedback | Easy |  |
+| h10 | Do a research on existing products alike, set a competitive price and valuate it on customer satisfaction level | Hard | |
+| h11 | Create a more general product and release it for a monthly fee and track customers retention over time | Hard |  |
+| h12 | Carry out a research without any input from customer and see how accurate were the results and did they brought any value | Normal |  |
+| h13 | Try to acquire student workers, apply their competencies and see how well the product or service is growing on different metrics | Normal |  |
+| h14 | Try tackling development tasks in between the co-founders and see if our competencies are enough to create MVP | Hard |  |
+| h16 | Aquire a sample dataset from customer and showcase what could be done and present it in an easy to understand manner | Normal |  |
+| h17 | Try using different services providers, compare the costs and feature set and pick a most appropriate solution | Hard |  |
+| h18 | Weekly/monthly/annually feedback sessions with the customer about discussing existing features, what could be added, what’s missing etc | Normal |  |
+
 
 
 
