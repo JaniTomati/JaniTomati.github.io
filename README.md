@@ -83,11 +83,11 @@ This experiment tries to give insights for water flow increase during lockdown p
 - __h11__: Customers are willing to pay a subscribtion fee for further maintenance of the product *(Subscribtion)*
 
 #### KEY RESOURCES
-- __h12__: Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value *(Intellectual)*
+- __h12__: Customer knowledge (domain knowledge) and database is required in order to carry out our research and provide insights or value *(Intellectual)*
 
-- __h13__: In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales and management *(Human)*
+- __h13__: In order to create the product we need skilled employees in data sience and in the area of data visualization, communication, sales and management *(Human)*
 
-- __h14__: To start product development we need employ workers *(Financial)*
+- __h14__: To start product development we need to employ workers *(Financial)*
 
 - __h15__: To keep our provided services accessible we need a data server, hardware for the employees and computing power *(Physical)*
 
@@ -104,20 +104,27 @@ This experiment tries to give insights for water flow increase during lockdown p
 
 | Hypotheses        | Experiment          | Difficulty   |  Result  |
 | ----------------- |:--------------------|:-----------:| -------- |
-| h1 | Identify potential clients and interview them to figure out if this product would create value for them | Normal |  |
+| h1 | Identify potential clients and interview them to figure out if this product would create value for them | Medium |  |
 | h2 | A prototype of data visualisation is created and presented for customer to gain feedback if this visualisation would solve some of the existing customer’s problems | Easy | |
+| h2 | Get insights of customers current data analysis process and compare to the process with our solution | Medium | |
 | h3 | Share success stories with customers where we would highlight how our product helped in identifying potential pitfalls for other customers | Easy | |
+| h3 | Ask customers to report findings that surprised them and that they would not have found in the old process | Medium | | 
 | h4, h5 | Aquire different metrics and compare it to the ones before customer started using this product, highlight the positive findings | Hard | |
-| h6 | Create a web version of the product for desktop/mobile and gather feedback from target groups | Hard | |
+| h6, h16 | Create a web version for the business concept for desktop/mobile and wait for requests by possible customers | Hard | |
+| h6, h16 | Advertise the company webpage and analyse the traffic, engagement and number of requests | Hard | | 
+| h7 | Try different versions of customer support on the customers and ask them for their feedback | Medium | |
+| h8 | Gather feedback from the customer on the user experience, most likely customers will get back to us with questions that will make it easier to generate such manual | Medium |  |
 | h9 | Send a draft version of data report for customers and collect feedback | Easy |  |
-| h10 | Do a research on existing products alike, set a competitive price and valuate it on customer satisfaction level | Hard | |
-| h11 | Create a more general product and release it for a monthly fee and track customers retention over time | Hard |  |
-| h12 | Carry out a research without any input from customer and see how accurate were the results and did they brought any value | Normal |  |
-| h13 | Try to acquire student workers, apply their competencies and see how well the product or service is growing on different metrics | Normal |  |
-| h14 | Try tackling development tasks in between the co-founders and see if our competencies are enough to create MVP | Hard |  |
-| h16 | Aquire a sample dataset from customer and showcase what could be done and present it in an easy to understand manner | Normal |  |
+| h10 | Do a research on existing products alike, set a competitive price and evaluate it on customer satisfaction level | Hard | |
+| h11 | Create a more general product and release it for a monthly fee and track the customers engagement over time | Hard |  |
+| h11 | Simply give customer the choice to pay for the maintanance of the product by using the subscription model or by paying for every new fix (e.g. changing data model, etc.) | Easy | | 
+| h12 | Carry out research without any input from the customer and see how accurate the results were and whether they brought any value | Medium |  |
+| h13 | Try to acquire student workers, apply their competencies and see how well the product or service is growing on different metrics | Medium |  |
+| h14 | Try tackling development tasks in between the co-founders and see if our competences are enough to create MVP | Hard |  |
+| h15 | Start with existing hardware (e.g. personal computers, etc.) and upgrade only if necessary and iterate the process | Easy | | 
+| h16 | Aquire a sample dataset from customer and showcase what could be done and present it in an easy to understand manner | Medium |  |
 | h17 | Try using different services providers, compare the costs and feature set and pick a most appropriate solution | Hard |  |
-| h18 | Weekly/monthly/annually feedback sessions with the customer about discussing existing features, what could be added, what’s missing etc | Normal |  |
+| h18 | Weekly/monthly/annually feedback sessions with the customer about discussing existing features, what could be added, what’s missing etc | Medium |  |
 
 
 
