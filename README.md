@@ -62,3 +62,27 @@ REVENUE STREAMS
 CHANNELS
   Digital - User are willing to use the digital platform that we provide
 
+CUSTOMER SEGMENTS
+  Customers or individuals with large amounts of data are willing to use our product for data analysis and procession
+
+CUSTOMER RELATIONSHIPS
+  Dedicated personal assitance - Customers want a product thats tailored according to their needs
+  Self-service - Customer want to be provided with a manual (how-to) that they could use the product without additional assistance
+  Automated services - Customers want to get automated reports to get insights on data
+
+KEY RESOURCES
+  Intellectual - Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value
+  Human - In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales, management
+  Financial - To start product development we need employess
+  Physical - To keep our provided services accessible we need a data server and computing power
+
+KEY ACTIVITIES
+  Problem solving - Customer needs our expertise to bring the data into readable and interpretable format
+KEY PARTNERS
+  Strategic alliences - to reduces the business process costs we need to collaborate with cloud computing providers
+VALUE PROPOSITIONS
+  Getting the job done - We help the customer getting the job done by providing the visual analytic tool for their data
+  Risk assesment - Customer gets the potential to forsee upcoming risks by using our tool
+  Analytical and statistical inshights - customer gets the required imputs for making decisions
+  Business process optimization - Customer spends less time and money for analysing the data
+
