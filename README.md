@@ -50,48 +50,65 @@ This experiment tries to give insights for water flow increase during lockdown p
 
 ### Business model canvas
 
-#### Cost structure
-Value driven - We trying to create the best product that brings the most value for the customer
+*** placeholder for image *** 
 
-#### Revenue streams
-Asset sale - We think that customers would buy the individual product for one time fee
+#### CUSTOMER SEGMENTS
+__h1:__ Customers or individuals with large amounts of data are willing to use our product for data analysis and procession *(mass market)*
 
-Subscribtion - We think that customers would pay a subscribtion fee for maintenance of the product
+#### VALUE PROPOSITIONS
+__h2__: We help the customer getting the job of data analysis done efficiently by providing the visual analytic tool for their data *("Getting the job done")*
 
-#### Channels
-Digital - Users are willing to use the digital platform that we provide
+__h3__: Customer gets the potential to forsee upcoming risks by using our tool *(Risk assessment)*
 
-#### Customer segments
-Customers or individuals with large amounts of data are willing to use our product for data analysis and procession
+__h4__: Customers decision making process will be much easier and more efficient using our product *(Analytical and statistical insights)*
 
-#### Customer relationships
-Dedicated personal assitance - Customers want a product thats tailored according to their needs
+__h5__: Customers using our products spend less time and money for analysing the data *(Business process optimization)*
 
-Self-service - Customer want to be provided with a manual (how-to) that they could use the product without additional assistance
+#### SALES CHANNELS
+__h6__: Users are willing to use the digital platform that we provide to request our services *(Digital sales)*
 
-Automated services - Customers want to get automated reports to get insights on data
+#### CUSTOMER RELATIONSHIPS
+__h7__: Customers want a product thats tailored according to their needs and a person that will be their personal contact throughout the process of creating the process  *(Dedicated personal assitance)*
 
-#### Key resources
-Intellectual - Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value
+__h8__: Customers want to be provided with a manual (how-to) that they could use the product without additional assistance *(Self-service)*
 
-Human - In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales, management
+__h9__: Customers want to get automated reports (e.g. weekly) to get further insights on their data *(Automated services)*
 
-Financial - To start product development we need employess
+#### REVENUE STREAMS
+__h10__: Customers want to buy their individual product for a one time fee *(Asset sale)*
 
-Physical - To keep our provided services accessible we need a data server and computing power
+__h11__: Customers are willing to pay a subscribtion fee for further maintenance of the product *(Subscribtion)*
 
-#### Key activities
-Problem solving - Customer needs our expertise to bring the data into readable and interpretable format
+#### KEY RESOURCES
+__h12__: Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value *(Intellectual)*
 
-#### Key partners
-Strategic alliences - to reduces the business process costs we need to collaborate with cloud computing providers
+__h13__: In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales and management *(Human)*
 
-#### Value propositions
-Getting the job done - We help the customer getting the job done by providing the visual analytic tool for their data
+__h14__: To start product development we need employ workers *(Financial)*
 
-Risk assesment - Customer gets the potential to forsee upcoming risks by using our tool
+__h15__: To keep our provided services accessible we need a data server, hardware for the employees and computing power *(Physical)*
 
-Analytical and statistical inshights - customer gets the required imputs for making decisions
+#### KEY ACTIVITIES
+__h16__: Customers need our expertise to bring the data into readable and interpretable format *(Problem solving)*
 
-Business process optimization - Customer spends less time and money for analysing the data
+#### KEY PARTNERSHIPS
+__h17__: To reduce the business process costs we need to collaborate with cloud providers to reduce the price of computing and storage resources *(Strategic alliences)*
+
+#### COST STRUCTURE
+ __h18__: We want to create the best product that brings the most value for the customers business process *(Value driven)*
+
+### Experiments 
+
+| Hypotheses        | Experiment          | Difficulty  |  Result  |
+| ----------------- |:--------------------|:-----------:| -------- |
+| h1, h2            | this is an experiment     |   eaaaasy          |  example |
+|                   |                     |             |          |
+|                   |                     |             |          |
+|                   |                     |             |          |
+|                   |                     |             |          |
+|                   |                     |             |          |
+|                   |                     |             |          |
+
+
+
 
