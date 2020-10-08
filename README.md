@@ -59,7 +59,7 @@ Asset sale - We think that customers would buy the individual product for one ti
 Subscribtion - We think that customers would pay a subscribtion fee for maintenance of the product
 
 #### Channels
-Digital - User are willing to use the digital platform that we provide
+Digital - Users are willing to use the digital platform that we provide
 
 #### Customer segments
 Customers or individuals with large amounts of data are willing to use our product for data analysis and procession
