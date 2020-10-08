@@ -8,8 +8,9 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 - Filip Kubos
 - Dominykas Rumsa
 
+------
 
-### Experiments
+### Experiments - 02.10.20
 
 
 | Hypothesis        | Experiment           | Difficulty  |  Result |
@@ -48,54 +49,56 @@ This experiment tries to give insights for water flow increase during lockdown p
 
 <img src="images/experiment3/corona.png">
 
-### Business model canvas
+------
+
+### Business model canvas - 09.10.20
 
 *** placeholder for image *** 
 
 #### CUSTOMER SEGMENTS
-__h1:__ Customers or individuals with large amounts of data are willing to use our product for data analysis and procession *(mass market)*
+- __h1:__ Customers or individuals with large amounts of data are willing to use our product for data analysis and procession *(mass market)*
 
 #### VALUE PROPOSITIONS
-__h2__: We help the customer getting the job of data analysis done efficiently by providing the visual analytic tool for their data *("Getting the job done")*
+- __h2__: We help the customer getting the job of data analysis done efficiently by providing the visual analytic tool for their data *("Getting the job done")*
 
-__h3__: Customer gets the potential to forsee upcoming risks by using our tool *(Risk assessment)*
+- __h3__: Customer gets the potential to forsee upcoming risks by using our tool *(Risk assessment)*
 
-__h4__: Customers decision making process will be much easier and more efficient using our product *(Analytical and statistical insights)*
+- __h4__: Customers decision making process will be much easier and more efficient using our product *(Analytical and statistical insights)*
 
-__h5__: Customers using our products spend less time and money for analysing the data *(Business process optimization)*
+- __h5__: Customers using our products spend less time and money for analysing the data *(Business process optimization)*
 
 #### SALES CHANNELS
-__h6__: Users are willing to use the digital platform that we provide to request our services *(Digital sales)*
+- __h6__: Users are willing to use the digital platform that we provide to request our services *(Digital sales)*
 
 #### CUSTOMER RELATIONSHIPS
-__h7__: Customers want a product thats tailored according to their needs and a person that will be their personal contact throughout the process of creating the process  *(Dedicated personal assitance)*
+- __h7__: Customers want a product thats tailored according to their needs and a person that will be their personal contact throughout the process of creating the process  *(Dedicated personal assitance)*
 
-__h8__: Customers want to be provided with a manual (how-to) that they could use the product without additional assistance *(Self-service)*
+- __h8__: Customers want to be provided with a manual (how-to) that they could use the product without additional assistance *(Self-service)*
 
-__h9__: Customers want to get automated reports (e.g. weekly) to get further insights on their data *(Automated services)*
+- __h9__: Customers want to get automated reports (e.g. weekly) to get further insights on their data *(Automated services)*
 
 #### REVENUE STREAMS
-__h10__: Customers want to buy their individual product for a one time fee *(Asset sale)*
+- __h10__: Customers want to buy their individual product for a one time fee *(Asset sale)*
 
-__h11__: Customers are willing to pay a subscribtion fee for further maintenance of the product *(Subscribtion)*
+- __h11__: Customers are willing to pay a subscribtion fee for further maintenance of the product *(Subscribtion)*
 
 #### KEY RESOURCES
-__h12__: Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value *(Intellectual)*
+- __h12__: Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value *(Intellectual)*
 
-__h13__: In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales and management *(Human)*
+- __h13__: In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales and management *(Human)*
 
-__h14__: To start product development we need employ workers *(Financial)*
+- __h14__: To start product development we need employ workers *(Financial)*
 
-__h15__: To keep our provided services accessible we need a data server, hardware for the employees and computing power *(Physical)*
+- __h15__: To keep our provided services accessible we need a data server, hardware for the employees and computing power *(Physical)*
 
 #### KEY ACTIVITIES
-__h16__: Customers need our expertise to bring the data into readable and interpretable format *(Problem solving)*
+- __h16__: Customers need our expertise to bring the data into readable and interpretable format *(Problem solving)*
 
 #### KEY PARTNERSHIPS
-__h17__: To reduce the business process costs we need to collaborate with cloud providers to reduce the price of computing and storage resources *(Strategic alliences)*
+- __h17__: To reduce the business process costs we need to collaborate with cloud providers to reduce the price of computing and storage resources *(Strategic alliences)*
 
 #### COST STRUCTURE
- __h18__: We want to create the best product that brings the most value for the customers business process *(Value driven)*
+- __h18__: We want to create the best product that brings the most value for the customers business process *(Value driven)*
 
 ### Experiments 
 
