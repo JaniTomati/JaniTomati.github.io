@@ -53,7 +53,7 @@ This experiment tries to give insights for water flow increase during lockdown p
 
 ### Business model canvas - 09.10.20
 
-*** placeholder for image *** 
+<img src="images/business_model_canvas/the_business_model_canvas.png">
 
 #### CUSTOMER SEGMENTS
 - __h1:__ Customers or individuals with large amounts of data are willing to use our product for data analysis and procession *(mass market)*
