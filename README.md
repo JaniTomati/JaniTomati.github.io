@@ -50,28 +50,28 @@ This experiment tries to give insights for water flow increase during lockdown p
 
 ### Business model canvas
 
-#### COST STRUCTURE
+#### Cost structure
 Value driven - We trying to create the best product that brings the most value for the customer
 
-#### REVENUE STREAMS
+#### Revenue streams
 Asset sale - We think that customers would buy the individual product for one time fee
 
 Subscribtion - We think that customers would pay a subscribtion fee for maintenance of the product
 
-#### CHANNELS
+#### Channels
 Digital - User are willing to use the digital platform that we provide
 
-#### CUSTOMER SEGMENTS
+#### Customer segments
 Customers or individuals with large amounts of data are willing to use our product for data analysis and procession
 
-#### CUSTOMER RELATIONSHIPS
+#### Customer relationships
 Dedicated personal assitance - Customers want a product thats tailored according to their needs
 
 Self-service - Customer want to be provided with a manual (how-to) that they could use the product without additional assistance
 
 Automated services - Customers want to get automated reports to get insights on data
 
-#### KEY RESOURCES
+#### Key resources
 Intellectual - Customer knowledge (domain knowledge) and database is required in order to carryout our research and provide insights or value
 
 Human - In order to create the product we need skilled employess in data sience and in the area of data visualization, communication, sales, management
@@ -80,13 +80,13 @@ Financial - To start product development we need employess
 
 Physical - To keep our provided services accessible we need a data server and computing power
 
-#### KEY ACTIVITIES
+#### Key activities
 Problem solving - Customer needs our expertise to bring the data into readable and interpretable format
 
-#### KEY PARTNERS
+#### Key partners
 Strategic alliences - to reduces the business process costs we need to collaborate with cloud computing providers
 
-#### VALUE PROPOSITIONS
+#### Value propositions
 Getting the job done - We help the customer getting the job done by providing the visual analytic tool for their data
 
 Risk assesment - Customer gets the potential to forsee upcoming risks by using our tool
