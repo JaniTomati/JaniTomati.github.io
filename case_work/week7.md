@@ -18,3 +18,5 @@
 We think it could be a good way to start with small, independent business that lack the resources to do their own data analysis and visualization. They might not want to hire a person specifically long-term to create such a solution for them. This would help us start small, to learn to create small visual solutions and start creating a framework to simplify work later on. The advantage of small companies is that they most likely have needs on a smaller scale and are probably better connected with each other than big companies are. This way businesses might recommend us further.
 
 #### Blue Ocean Canvas
+
+<img src="../images/blue_ocean_canvas/blue_ocean_canvas.jpg">
