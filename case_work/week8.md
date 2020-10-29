@@ -10,10 +10,19 @@
   * Salaries
   * Office space (+ maintenance)
   * Hardware 
-
+  * Production time 
 
 #### Value-based pricing 
 - Which values are we creating for the consumer? 
-
+  * Less time spent on analysing their data the conventional way 
+  * Less time and money spent on business strategies that are not supported by the data 
+  
 #### Reference-based pricing 
-- Who are our competitors? How much do they charge? 
+- Who are our competitors? 
+  * https://www.scnsoft.com/services/data-visualization
+  * https://softcrylic.com/data-visualization-services/
+  * https://www.blastanalytics.com/data-visualization-consulting 
+  * https://wciconsulting.com/bi-consulting-services/business-intelligence-consulting/data-visualization-consulting/
+- How much do they charge? 
+  * Hard to find specifics for these kinds of consultancies 
+  
