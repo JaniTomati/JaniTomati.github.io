@@ -5,24 +5,28 @@
 
 ### Product pricing - 30.10.20
 
-#### Cost-based pricing 
-- What are our expenses? 
-  * Salaries
-  * Office space (+ maintenance)
-  * Hardware 
-  * Production time 
+#### Cost-based pricing
+- What are our expenses?
 
-#### Value-based pricing 
-- Which values are we creating for the consumer? 
-  * Less time spent on analysing their data the conventional way 
-  * Less time and money spent on business strategies that are not supported by the data 
-  
-#### Reference-based pricing 
-- Who are our competitors? 
+| Expenses |  dkk  |
+|---|---|
+| Salaries |   |
+| Office space (+ maintenance) |   |
+| Hardware |   |
+| Online services |   |
+
+#### Value-based pricing
+- Which values are we creating for the consumer?
+  * Less time spent on analysing their data the conventional way
+  * Less time and money spent on business strategies that are not supported by the data
+  * The quality of insights are more better and well refined
+  * Pleasant user experience
+
+#### Reference-based pricing
+- Who are our competitors?
   * https://www.scnsoft.com/services/data-visualization
   * https://softcrylic.com/data-visualization-services/
-  * https://www.blastanalytics.com/data-visualization-consulting 
+  * https://www.blastanalytics.com/data-visualization-consulting
   * https://wciconsulting.com/bi-consulting-services/business-intelligence-consulting/data-visualization-consulting/
-- How much do they charge? 
-  * Hard to find specifics for these kinds of consultancies 
-  
+- How much do they charge?
+  * Hard to find specifics for these kinds of consultancies
