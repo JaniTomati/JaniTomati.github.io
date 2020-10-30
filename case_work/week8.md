@@ -21,6 +21,7 @@
   * Less time and money spent on business strategies that are not supported by the data
   * The quality of insights are more better and well refined
   * Pleasant user experience
+  * Automatic reports for marketers and sales team
 
 #### Reference-based pricing
 - Who are our competitors?
@@ -28,5 +29,7 @@
   * https://softcrylic.com/data-visualization-services/
   * https://www.blastanalytics.com/data-visualization-consulting
   * https://wciconsulting.com/bi-consulting-services/business-intelligence-consulting/data-visualization-consulting/
+  * https://powerbi.microsoft.com/en-us/
 - How much do they charge?
   * Hard to find specifics for these kinds of consultancies
+  * PowerBI: 9.99$/month/user 
