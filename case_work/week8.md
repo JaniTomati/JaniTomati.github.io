@@ -7,13 +7,20 @@
 
 #### Cost-based pricing
 - What are our expenses?
+  * Counted for 3 person team per month
+  * Since we are running an online business expenses are limited just to three categories that are mentioned in the table below
+  * Later on various costs for services and online services might be added, but for the very beginning of the entrepreneurship venture they are hard to identify or non-existing
+- Total:
+  * Monthly: 70750 dkk
+  * Yearly: 849000 dkk
 
 | Expenses |  dkk  |
 |---|---|
-| Salaries |   |
-| Office space (+ maintenance) |   |
-| Hardware |   |
-| Online services |   |
+| Salaries | 60000 |
+| Office space (+ maintenance) | 7000 |
+| Hardware | 3750 |
+
+If we would want to make profit with these expenses, having 20 customers we should be charging them 3500 dkk montly.
 
 #### Value-based pricing
 - Which values are we creating for the consumer?
