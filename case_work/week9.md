@@ -14,25 +14,34 @@ There are a lot of companies based in and around Aarhus [1]. Moreover, there is 
 - Of the data visualization and analysis consultancies that we have found, none were located in Denmark. There are however a few freelancers that offer similar services to customers that are based in Denmark [4]. 
 Unfortunately, we could not find a total number of startups that are being established every year in Denmark, however, Denmark is frequently named as one of the top countries to start a business in and makes it easy for people to start their own company [5]. We therefore assume that Denmark as a whole shows the same potential as Aarhus when it comes to the market. 
 3. World-wide
-- 
+- During our search for competitors, we found some data visualization and anaylsis consultencies. Most of them are based in the US, some of them have branches in India, the UK or Canada as well. This could mean that we lack data visualization consultancies in Europe. 
+According to Get2Growth there are 100 million startups being established each year [17]. This means that there are potentially a lot of customers that would like to gain insight into their data. Most of the succesful startups are established in the US [18], however, creating a consultancy that is closer to the European market could be beneficial. This means that customer and service provider do not have a large time difference and are generally closer than a customer from Europe would be to the US. 
 
 [1]: https://www.crunchbase.com/hub/aarhus-companies 
 [2]: https://www.aarsome.com 
 [3]: https://citybrand.aarhus.dk/media/36053/2019-05-28_do_business_with_aarhus_.pdf
 [4]: https://www.upwork.com/l/dk/data-visualization-freelancers/
 [5]: https://startupdenmark.info/why-denmark
+[17]: https://get2growth.com/how-many-startups/
+[18]: https://www.marshall.usc.edu/faculty-research/centers-excellence/center-global-innovation/startup-index-nations-regions
 
 #### Competitor map 
 1. __Power BI / Tableau__: These software solutions make it easy for customers to create their own visualization reports without needing to code. This makes it very easy for unexperienced users to create their own visualization reports without any expertise in the field. However, this also means that there is the potential that users do not get the full potential from their data. They might choose the wrong form of visualization for their data or make other mistakes that result in a bad visualization. Addionally, they are also limited by the chart types that Power BI provides. There are ways to extend the visualizations but that can be very hard or beginners and it takes a lot of reading into the matter to get to the result that you might want to [6] [7]. 
-2. __BI Consultancy__: As part of our research we found some consultancy companies that offer to produce visualization reports, forecasts and predictions using the clients data. From what we could gather, most of these companies actually use services like Power BI and Tableau to create the reports for their customers. The service they provide is supposed to make the most of the data and provide easy analysis for the customer [8].
-3. __Freelancers__: Similar to BI consultancy companies, there are also freelancers that offer to do data visualization and analysis for their customers [9].
+2. __BI Consultancy__: As part of our research we found some consultancy companies that offer to produce visualization reports, forecasts and predictions using the clients data. From what we could gather, most of these companies actually use services like Power BI and Tableau to create the reports for their customers. The service they provide is supposed to make the most of the data and provide easy analysis for the customer [8] [9] [10] [11] [12] [13] [14].
+3. __Freelancers__: Similar to BI consultancy companies, there are also freelancers that offer to do data visualization and analysis for their customers [15].
 4. __Business expansion__: In our business hypothesis, we assume that customers are willing to hire a consultancy company to deal with their data needs because they don't have the resources themselves, however, this also means that we should take into account that a potential customer might spend their money on actually hiring someone full time as a domain expert so that there would be no need for an external service. This means we need to make our service as attractive as possible so that customers don't feel the need to directly hire someone specifically for that task. 
+5. __Visualization Workshops__: Another potential competitor could be companies that organize data visualization workshops and provide style guides [16]. Combining the workshops with solutions such as Power BI and Tableau could mean that it's not necessary anymore for a company to hire an external consultancy, i.e. at least for rather simple visualizations and analysis. 
 
 [6]: https://powerbi.microsoft.com/en-us/ 
 [7]: https://www.tableau.com
 [8]: https://www.iflexion.com/business-intelligence/data-visualization
-
-[9]: https://www.upwork.com/l/dk/data-visualization-freelancers/
-
+[9]: https://www.scnsoft.com/services/data-visualization
+[10]: https://softcrylic.com/data-visualization-services/
+[11]: https://www.blastanalytics.com/data-visualization-consulting
+[12]: https://wciconsulting.com/bi-consulting-services/business-intelligence-consulting/data-visualization-consulting/
+[13]: https://www.softwebsolutions.com/data-visualization-consulting.html
+[14]: https://www.appnovation.com/data-analytics/data-visualization-consultants
+[15]: https://www.upwork.com/l/dk/data-visualization-freelancers/
+[16]: https://www.datalabsagency.com
 
 #### Sales process (Customer decision journey)  
