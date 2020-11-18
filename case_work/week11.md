@@ -7,3 +7,8 @@
 
 
 #### Blitzscaling
+
+- Marketsize: 
+- Distribution: 
+- High Growth Margin: 
+- Network Effect: 
