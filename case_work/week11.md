@@ -15,4 +15,4 @@ When we started planning our consultancy, we were thinking of a broad spectrum o
 
 Generally, we believe that the initial concept of creating a consultancy does not apply to a Blitzscaling strategy. It is about creating a trustworthy relationship to the customer which takes time and resources but will also yield a personal product that will enhance that specific companies business process. However, as proprosed above in the bowling alley strategy, we might be able to create a product that caters to a market niche which could be scalable. 
 
-
+Most of the Blitzscaling growth factors are also reflected in Peter Thiels view on how to create a Monopoly. He mentions especially network effects and economies of scale.
