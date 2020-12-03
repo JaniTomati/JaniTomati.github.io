@@ -12,3 +12,6 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 - Dominykas Rumsa
 
 ### Picture
+
+
+<img src="images/the_team.png">
