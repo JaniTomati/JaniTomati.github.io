@@ -16,6 +16,8 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 <img src="images/the_team.png">
 
 ### Idea generation 
+We decided to follow the company challenge "Sustainable cities" that was proposed by aarhusvand.
+
 #### Bird-in-hand
 - Filip 
   * Studies masters degree in Computer Science 
@@ -27,3 +29,17 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
   * Studies masters degree in Computer Science 
   * Likes data visualization and data analysis 
   
+#### Technology and imbalances or social changes
+- Pipe infrastructure in the water industry ages and is more prone to breaking
+- Sensor technology can detect leaks based on changes in acoustic  
+  * Data can be used to start predicting the probability for a pipe to be breaking 
+- UN expect 50% of the population to live in areas of high water stress by 2030
+  * people want to be more sustainable 
+  * to give access to water to the whole population we need to save and reuse water 
+
+#### Jobs to be done 
+- Monitor current water consumption (real-time)
+- Compare consumption (e.g. to the consumption of the previous week or the consumption of this year during the pandemic to last years consumption) 
+- Predict future consumption 
+- Detect leaking pipes 
+- Predict the probability of a pipe leakage 
