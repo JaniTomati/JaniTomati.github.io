@@ -13,7 +13,17 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 
 ### Picture
 
-
 <img src="images/the_team.png">
 
 ### Idea generation 
+#### Bird-in-hand
+- Filip 
+  * Studies masters degree in Computer Science 
+  * Likes machine learning and data mining
+- Dominykas 
+  * Studies masters degree in Computer Science 
+  * Likes web design and the design of good user experiences 
+- Jana 
+  * Studies masters degree in Computer Science 
+  * Likes data visualization and data analysis 
+  
