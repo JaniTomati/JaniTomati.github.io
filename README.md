@@ -15,3 +15,5 @@ This is our group page for the course Interdisciplinary Digital Entrepreneurship
 
 
 <img src="images/the_team.png">
+
+### Idea generation 
