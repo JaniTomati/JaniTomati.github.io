@@ -21,6 +21,7 @@
     - From the business case provided by aarhusvand we gathered that the need of analysing and predicting consumption in relation to real-life events is still under-served
 - Create and opportunity landscape diagram. Reflect about the model qualities in relation to your idea. 
 <img src="../images/odi/opportunity_landscape.png">
+
 - Did you acquire new insights? 
   * We think that visualizing the opportunity landscape using the notion of importance and satisfaction actually helps to see which jobs actually make sense to focus on the most. It might turn out to focus on something that is less important but not satisfied than to go for something that is important but has a somewhat satisfactory solution. Of course it's always the best when you find jobs that are important and almost not satisfied. 
 - Was it hard to apply? 
