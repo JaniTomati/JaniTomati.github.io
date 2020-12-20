@@ -7,6 +7,10 @@
 
 <img src="../images/business_model_canvas/the_business_model_canvas.png">
 
+#### Business model canvas for WaterGuru
+
+<img src="../images/business_model_canvas/WaterGuru_Business_model_canvas.png">
+
 #### CUSTOMER SEGMENTS
 - __h1:__ Customers or individuals with large amounts of data are willing to use our product for data analysis and procession *(mass market)*
 
